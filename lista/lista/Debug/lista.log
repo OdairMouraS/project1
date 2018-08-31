@@ -1,0 +1,3 @@
+﻿  lista.cpp
+c:\users\jhon\documents\lista\lista\lista.cpp(15): warning C4244: 'argumento': conversão de 'time_t' para 'unsigned int', possível perda de dados
+  lista.vcxproj -> C:\Users\jhon\Documents\lista\Debug\lista.exe
